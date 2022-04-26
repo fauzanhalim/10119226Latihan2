@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">10119226Latihan2</string>
+    <string name="logo">Logo</string>
+    <string name="nama">Username</string>
+    <string name="pass">Password</string>
+    <string name="Login">login</string>
+    <string name="atau">OR</string>
+    <string name="fb">CONNECT WITH FACEBOOK</string>
+    <string name="dll"> Register</string>
+    <string name="mail">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="laki">Male</string>
+    <string name="cewe">Female</string>
+    <string name="darah">Blode Type</string>
+    <string name="reshus">Reshus</string>
+    <string name="repass">Retype Password</string>
+    <string name="solo">Personal</string>
+    <string name="squad">Organization</string>
+    <string name="job">Job</string>
+    <string name="alamat">Home Addres</string>
+    <string name="lokasi">Default Location</string>
+    <string name="aturan">Agree With Terms and COnditions</string>
+    <string name="daftar">Register</string>
+    <string name="almost">Almost There</string>
+    <string name="afteralmost">Thank you for registerubf withus. One more step, you need to check
+        your email to actif your accunt</string>
+    <string name="veri">VERIFY</string>
+    <string name="verify">Verify your Account</string>
+    <string name="aftervery">We need send verification code to yor email</string>
+    <string name="code">enter verification code here...</string>
+    <string name="kirim">SEND</string>
+    <string name="takdecode">doesnt get code ? Resend</string>
+</resources>
